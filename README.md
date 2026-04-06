@@ -1,6 +1,6 @@
 # 👑 ZAARD Ecosystem: The Hierarchical Material NFT Collection 👑
 
-![ZAARD Official Logo](INSRETA_AQUI_EL_ENLACE_A_TU_IMAGEN_DE_PINATA_QUE_TERMINA_EN_.png)
+![ZAARD Official Logo](https://gateway.pinata.cloud/ipfs/QmYourIPFShash/logo_zaard.png)
 
 ---
 
