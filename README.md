@@ -44,6 +44,43 @@ The revolutionary, visionary God-Tier of the entire digital universe, existing i
 * **🔩 Cobalt:** A strong, industrial tier with key strategic utility and dynamic value progression.
 * **🟣 Amethyst:** Balancing beauty and resilience, Amethysts serve as a reliable foundation tier with broad ecosystem application.
 
+# 🔥 ZAARD INNOVATION - Colección de NFTs (Versión Épica)
+
+## 🚀 La Majestuosidad del NFT: Un Rastro Infinito
+
+"PANGA es el rastro incansable, la fuerza de la creación que no se detiene".
+
+Esta colección no es simplemente arte digital; es la evolución de la materia, la ingeniería y el tiempo, grabada para siempre en la blockchain. Con un enfoque en la Inteligencia Artificial y la tecnología, cada NFT de esta colección representa un nivel de maestría y valor, desde los metales más puros hasta los elementos más exóticos y técnicos.
+
+## 🎖️ Jerarquía de Materiales y Rareza
+
+Nuestra colección se estructura en niveles de poder y rareza. Estos son los materiales que componen la majestuosidad de los NFTs de ZAARD INNOVATION, listados en orden ascendente:
+
+### 🥉 Metales Clásicos
+* **Bronce**
+* **Plata**
+* **Oro**
+
+### 💎 Joyería Preciosa
+* **Perla Negra**
+* **Marfil**
+* **Amatista**
+* **Zafiro**
+* **Rubí**
+* **Esmeralda**
+
+### ⚙️ Metales Industriales y de Alta Tecnología
+* **Acero**
+* **Cobalto**
+* **Titanio** (El Nivel Máximo de Resistencia y Tecnología)
+
+![Medalla ZAARD INNOVATION](https://ipfs.io/ipfs/bafybeigh7lherlr24iq7wcph6h4zj4d6dagkalhhjrxob3mgbf3jjyzxfy)
+
+---
+
+> *"Descubre el rastro. Conquista la tecnología."*
+> — ZAARD INNOVATION
+
 ---
 
 ## 📜 Official Smart Contract Information
