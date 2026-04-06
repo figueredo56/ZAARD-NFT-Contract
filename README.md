@@ -1,6 +1,6 @@
 # 👑 ZAARD Ecosystem: The Hierarchical Material NFT Collection 👑
 
-![ZAARD Official Logo](bafkreigdzwd7uecqbs65hvgdoujn3iffppsclv3ubsgumicgoalj2uem4y)
+![ZAARD Official Logo](https://gateway.pinata.cloud/ipfs/bafybeiccpcmd7pyvpfvb2zavdcekwvfcxqj7dkbkufadr6xiwhffg64vdy/logo_zaard.png)
 
 ---
 
@@ -46,7 +46,7 @@ Verify the authenticity. Interact only with the officially deployed contract add
 
 * **🔗 BSCScan Verified Contract:** [ZAARD NFT Contract]
 * **📋 Contract Address:**
-    👉 `0x...SU_DIRECCION_DE_CONTRATO_VERIFICADO_AQUI`
+    👉 `0xe1a92676bdff96d31aBa04746E3E5567f888c4Da`
 
 ---
 
