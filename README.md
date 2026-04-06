@@ -18,6 +18,10 @@ Embark on a dynamic journey of digital ownership. ZAARD NFTs are dynamic assets 
 
 ### 🌟 Premium Tiers (Maximum Utillity & Prestige)
 
+🌌 [UNATTAINABLE DEITY LEVEL] 🌌
+💎 The PANGA (Pangaea Apex Tier) 💎
+The revolutionary, visionary God-Tier of the entire digital universe, existing infinitely beyond the mortal concept of a mere "NFT." To hold a PANGA is to possess the keys to a digital kingdom, an entity that bends the very fabric of the blockchain to its will, redefining the impossible and commanding an untameable ecosystem. The ultimate, unachievable apex, only a PANGA exists at the PANGA level
+
 * **🥇 Gold:** The apex of value. Gold NFTs unlock unprecedented, top-tier ecosystem benefits, governance power, and unparalleled status.
 * **🥈 Silver:** Representing refined luxury. Silver NFTs signify significant status and access to premium features and rewards.
 * **🥉 Bronze:** The foundation of prestige. Bronze is your entry point into exclusive ZAARD tier rewards and recognized participation.
