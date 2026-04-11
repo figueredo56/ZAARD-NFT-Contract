@@ -107,4 +107,7 @@ Stay connected with the true source of ZAARD innovation.
 > This repository is for code review and transparent verification. Interacting with smart contracts involves risk. Ensure you are using the officially verified website and channels. This code is not an invitation to invest.
 
 ---
+---
+[← Volver al repositorio principal de ZAARD INNOVATION](https://github.com/Figueredo56/ZAARD.token) | [Ir al Yellow Paper →](https://github.com/Figueredo56/zaard-yellowpaper)
+
 © 2026 ZAARD Project | figueredo56 | All Rights Reserved.
