@@ -1,6 +1,7 @@
 # 👑 ZAARD Ecosystem: The Hierarchical Material NFT Collection 👑
 
-![ZAARD Official Logo]
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
+
 <img src="https://ipfs.io/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="48%" />
 </p>
 
