@@ -1,6 +1,6 @@
 # 👑 ZAARD Ecosystem: The Hierarchical Material NFT Collection 👑
 
-![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/file.svg)
 
 <img src="https://ipfs.io/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="48%" />
 </p>
@@ -110,5 +110,10 @@ Stay connected with the true source of ZAARD innovation.
 ---
 ---
 [← Volver al repositorio principal de ZAARD INNOVATION](https://github.com/Figueredo56/ZAARD.token) | [Ir al Yellow Paper →](https://github.com/Figueredo56/zaard-yellowpaper)
+
+### Contacto Oficial
+Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
+[figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+
 
 © 2026 ZAARD Project | figueredo56 | All Rights Reserved.
