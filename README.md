@@ -73,7 +73,7 @@ Nuestra colección se estructura en niveles de poder y rareza. Estos son los mat
 * **Cobalto**
 * **Titanio** (El Nivel Máximo de Resistencia y Tecnología)
 
-![Medalla ZAARD INNOVATION](https://ipfs.io/ipfs/bafybeiggkkhw3sxktwe76ifu3hcwrto2ekhbydaca5gqairerxkdph3xza)
+![Medalla ZAARD INNOVATION](https://photos.pinksale.finance/file/pinksale-logo-upload/1790285457237-9ad671ea756d64c75327e237813ee288.png)
 
 ---
 
